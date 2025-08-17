@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97681984207",
+    "project_id": "anotherpractice-de009",
+    "storage_bucket": "anotherpractice-de009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97681984207:android:32770c88cf704b606dc5ba",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT38IFfLjqbciTMftXQiC1Nw6lmnhNSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97681984207:android:097c05d360d1a3676dc5ba",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT38IFfLjqbciTMftXQiC1Nw6lmnhNSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
